@@ -1,7 +1,7 @@
 ![Welcome Banner](https://github.com/NawSiSiNgonOo/NawSiSiNgonOo/blob/main/banner%20image.png)
 ## Hi there 👋, I am Naw Si Si
 - 👩‍💻 A passionate frontend developer from Myanmar
-- 🌱 I’m currently learning **React and exploring new technologies!**
+- 🌱 I’m currently learning **React, Framer Motion and exploring new technologies!**
 - 💡 Constantly improving my skills in **JavaScript, CSS, and UI design**.
 - 🚀 Eager to collaborate on **open-source projects** and learn from the community.
 - 🎯 My goal is to become proficient in **frontend frameworks** and build **user-friendly applications**.
